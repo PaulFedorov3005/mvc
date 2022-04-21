@@ -10,6 +10,6 @@ class index
     public function cteate(){
         echo 'index controller index create';
     }
-    public function index
-
+    public function store()
+        echo 'index controller index store method';
 }
