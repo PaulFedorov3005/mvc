@@ -7,5 +7,6 @@ class index
     public function index(){
         echo 'index controller index action';
     }
+    public function index
 
 }
